@@ -1,0 +1,18 @@
+{
+  "name": "parkomat-detect-numbers",
+  "version": "1.0.0",
+  "description": "Car numbers detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ildar Kulmuhametov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.13.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
