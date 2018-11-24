@@ -4,6 +4,7 @@
   "description": "Car numbers detection",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ildar Kulmuhametov",
